@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
