@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0066-plus-one) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0160-intersection-of-two-linked-lists) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
