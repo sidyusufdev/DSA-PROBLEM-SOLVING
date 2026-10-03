@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/sidyusufdev/DSA-PROBLEM-SOLVING/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
